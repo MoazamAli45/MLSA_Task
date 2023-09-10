@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AlSyed Blog's",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AlSyed Blog's is a blogging website created using NextJs and MongoDb. User can also contact the admin of the website using the contact form.",
+    url: "https://alsyedblog-project.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dashboard",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Dashboard created using ReactJs,Material UI and Firebase. User can add,delete and update the data. User can also view data in form of charts",
+    url: "https://react-dashboard-alsyed.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Zee World Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Zee World is a website created using Next Js. It is a clone of the Zee World website. It is fully responsive and has an amazing UI.",
+    url: "https://zeeworld-nextjs.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Web Me",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Web Me is a website created using ReactJs and Material UI. It has an amazing UI and is fully responsive. It is a portfolio website.",
+    url: "https://webmeproject.netlify.app/",
   },
 ];
 
